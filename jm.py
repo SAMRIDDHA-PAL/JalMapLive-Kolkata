@@ -41,7 +41,7 @@ for name, latlon in areas.items():
     rep = st.session_state.reports[name]
     if "Clear" in rep:
         color = "green"
-    elif "Hatu" in rep:
+    elif "Knee" in rep:
         color = "orange"
     else:
         color = "red"
