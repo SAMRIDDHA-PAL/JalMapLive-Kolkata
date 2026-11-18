@@ -22,7 +22,7 @@ On the map, a green dot means the road is clear, and a red dot means it is water
 - Pandas
 
 ### Live Demo
-👉 https://jalmaplive-kolkata.onrender.com
+👉 https://jalmaplive-kolkata.onrender.com/
 
 ### How to Run
 pip install -r requirements.txt
